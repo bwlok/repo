@@ -1,0 +1,12 @@
+Origin: repo
+Label: repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: its my own repo.
+
+SHA256:
+ ae01b7cf25feee98fbdbf0197d677935766362eed4b0c653e2743576926cdfce 540 Packages.bz2
+ 15f5ae9607109dfc98ebc3576ee0237b84833743f73b630ca40b87736fce54f3 556 Packages.xz
